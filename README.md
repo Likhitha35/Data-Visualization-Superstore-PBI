@@ -24,7 +24,7 @@ Create meaningful and compelling visualizations using Power BI to extract busine
 
 📌 Dashboard Pages Overview
 
-📍 Page 1: KPI & Sales Overview
+📍 Page 1: Sales and Profit Overview
 - KPI Cards:
   - Total Sales
   - Total Profit
@@ -36,7 +36,7 @@ Create meaningful and compelling visualizations using Power BI to extract busine
 
 ---
 
-📍 Page 2: Category & Location Insights
+📍 Page 2: Category & State Analysis
 - **Sales by Category**:
   - Bar chart showing Sales and Profit per Category.
 - **Top 5 States by Sales**:
@@ -52,19 +52,6 @@ Create meaningful and compelling visualizations using Power BI to extract busine
 - **Top 10 Products by Profit**:
   - Bar chart showcasing the most profitable products.
 
----
-
-🧠 Key Business Insights
-- The **Consumer segment** contributes the most to total sales.
-- **West and East regions** are the most profitable.
-- **Technology** category outperforms in both sales and profit margins.
-- A few **products and customers** drive a significant portion of the profit, indicating high-value contributors.
-- **Sales and Profit** trends are seasonal and region-specific, suggesting strategic marketing windows.
-
----
-
-📷 Screenshots
-All dashboard page screenshots are included in the `screenshots/` folder.
 
 ---
 
