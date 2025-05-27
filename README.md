@@ -79,7 +79,7 @@ All dashboard page screenshots are included in the `screenshots/` folder.
 This repository contains:
 - Power BI Dashboard `.pbix` file
 - Dataset (`Sample Superstore.xlsx`)
-- Dashboard screenshots
+- Dashboard screenshots and pdf
 - This `README.md` file
 
 
